@@ -1,0 +1,44 @@
+#VERSION:1.0
+
+Xoblite - Quit
+Quits Xoblite
+Xoblite - Restart
+Restarts Xoblite
+Xoblite - Reconfigure
+Reconfigure Xoblite
+Xoblite - Edit File
+Quick access to editing certain configuration files
+Xoblite - Show Menu
+Show selected menus
+Xoblite - Hide Menu
+Hides open menues
+Xoblite - Toggle Tray
+Toggle systembar/tray visibility
+Xoblite - Toggle Slit
+Toggle slit visibility
+Xoblite - Toggle Plugins
+Toggle plugins visibility
+Xoblite - Workspace Control
+Control workspace commands
+Xoblite - Broam
+Send Xoblite a bro@m
+Broam(s):
+
+Select File:
+Current Style
+
+Select Menu:
+Main Menu
+Workspace
+Toolbar
+Systembar
+Slit
+
+Command:
+Workspace Left
+Workspace Right
+Add Workspace
+Delete Workspace
+Gather Windows
+Move Window Left
+Move Window Right
