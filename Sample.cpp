@@ -162,7 +162,7 @@ INIT() // do not put a brace here
 	pWorkSpace     = NewCommand("xob_workspace", STR(WORKSPACE), STR(WORKSPACE_DESC), ICON_XOBLITE, WorkSpace, ShowComboParam, SaveComboParam, ClearComboParam);
 	pBroam         = NewCommand("xob_broam", STR(BROAM), STR(BROAM_DESC), ICON_XOBLITE, Broam, ShowEditParam, SaveEditParam, ClearEditParam);
 	
-	RETURN("Xoblite Plugin");
+	RETURN("Stroke-bb Plugin");
 }
 
 /**************************************************************************\

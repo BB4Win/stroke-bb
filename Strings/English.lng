@@ -1,27 +1,27 @@
 #VERSION:1.0
 
-Xoblite - Quit
-Quits Xoblite
-Xoblite - Restart
-Restarts Xoblite
-Xoblite - Reconfigure
-Reconfigure Xoblite
-Xoblite - Edit File
+Blackbox - Quit
+Quits Blackbox
+Blackbox - Restart
+Restarts Blackbox
+Blackbox - Reconfigure
+Reconfigure Blackbox
+Blackbox - Edit File
 Quick access to editing certain configuration files
-Xoblite - Show Menu
+Blackbox - Show Menu
 Show selected menus
-Xoblite - Hide Menu
+Blackbox - Hide Menu
 Hides open menues
-Xoblite - Toggle Tray
+Blackbox - Toggle Tray
 Toggle systembar/tray visibility
-Xoblite - Toggle Slit
+Blackbox - Toggle Slit
 Toggle slit visibility
-Xoblite - Toggle Plugins
+Blackbox - Toggle Plugins
 Toggle plugins visibility
-Xoblite - Workspace Control
+Blackbox - Workspace Control
 Control workspace commands
-Xoblite - Broam
-Send Xoblite a bro@m
+Blackbox - Broam
+Send Blackbox a bro@m
 Broam(s):
 
 Select File:
